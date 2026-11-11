@@ -1,0 +1,77 @@
+TEKSTOVI ZA STRANICE (kopiraj ih, ne moraš ih prepisivati)
+==========================================================
+
+---------- index.html ----------
+Dan u zoološkom vrtu
+
+Zoološki vrt Lipa dom je za više od dvjesto životinja s pet kontinenata. Posjetitelji mogu gledati hranjenje životinja, voziti se vlakićem kroz vrt i sudjelovati u radionicama. Vrt je otvoren svaki dan u godini.
+
+Što te čeka
+Raspored hranjenja
+Životinje
+Kontakt
+
+Prije posjeta
+Kupi ulaznicu na blagajni.
+Ne hrani životinje.
+Kreći se samo označenim stazama.
+
+Kontakt
+Za pitanja piši na
+
+Cjenik ulaznica
+djeca do 7 godina      besplatno
+učenici i studenti     5 €
+odrasli                10 €
+obiteljska ulaznica    25 €
+
+Natrag na vrh
+
+
+---------- program.html ----------
+Raspored hranjenja
+Hranjenje životinja
+Dani | Vrijeme | Životinja | Mjesto
+Radni dan
+9:00 | Pingvini | Bazen
+10:30 | Tuljani
+12:00 | Čišćenje nastambi
+14:00
+Vikend
+10:00 | Lavovi | Savana
+11:30 | Žirafe
+13:00 | Zebre
+15:00 | Majmuni | Kuća majmuna
+Posjetiteljima je hranjenje životinja zabranjeno.
+Raspored vrijedi od 1. travnja do 31. listopada.
+Natrag na početnu
+
+
+---------- zivotinje.html ----------
+Životinje
+Klikni na nastambu na planu vrta.
+
+Kuća majmuna
+U kući majmuna žive čimpanze i majmuni kapucini. Nastamba ima unutarnji dio za zimu i vanjsko igralište s užadi.
+
+Bazen s pingvinima
+Pingvini žive u bazenu s hladnom vodom i stjenovitom obalom. Najaktivniji su za vrijeme jutarnjeg hranjenja.
+Kolonija
+Skupina pingvina koja živi i gnijezdi se zajedno.
+Linjanje
+Razdoblje u kojem pingvin mijenja staro perje novim.
+
+Savana
+Na savani zajedno žive žirafe i zebre, a lavovi imaju odvojeni dio iza jarka s vodom.
+
+Natrag na plan
+
+Galerija
+
+Natrag na početnu
+
+
+---------- BONUS: info/pravila.html ----------
+Pravila ponašanja u vrtu
+Ne lupaj po staklu nastambi i ne bacaj hranu životinjama.
+Natrag na početnu
